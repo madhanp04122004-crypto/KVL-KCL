@@ -1,5 +1,5 @@
-### Name:tamizh tharanya v
-### Reg no:212224250018
+### Name:MADHAN KUMAR P
+### Reg no:212222210010
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
